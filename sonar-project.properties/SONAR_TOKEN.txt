@@ -1,0 +1,12 @@
+sonar.projectKey=secureappdemo
+sonar.projectName=SecureAppDemo
+sonar.projectVersion=1.0
+
+sonar.sources=.
+
+sonar.sourceEncoding=UTF-8
+
+sonar.exclusions=**/bin/**,**/obj/**
+
+sonar.host.url=http://localhost:9000
+sonar.login=SONAR_TOKEN
